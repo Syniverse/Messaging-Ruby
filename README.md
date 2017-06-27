@@ -1,4 +1,5 @@
-# SCG Ruby SDK
+# Ruby SDK for SCG Messaging APIs
+
 This is the Ruby version of the SCG API. 
 The SCG APIs provides access to communication channels using SMS, MMS, 
 Push Notification, OTT messaging and Voice. 
@@ -229,5 +230,4 @@ The example below may output something like:
 ```
 
 [Full example](examples/check_message_request_state.rb)
-
 
