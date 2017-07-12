@@ -1,2 +1,6 @@
 nbproject/
 .idea/
+.bundle/
+Gemfile.lock
+*/spec/reports/
+
