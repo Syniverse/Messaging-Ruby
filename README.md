@@ -103,7 +103,7 @@ for reference.
 
 # Some more examples
 
-## Sending a SMS to a GSM number
+## Sending a SMS to a Mobile number
 
 ```ruby
 def send_sms(senderid, mdn, url_arg = {})
@@ -131,7 +131,7 @@ This works as above, except for the to field in *create*
                              'body' => 'Hello World'})
 ```
 
-## Sending a Message to a Group
+## Sending a Message to a Contact Group
 
 Here we will create two new contacts, a new group, assign the contacts
 to the group, and then send a message to the group.
