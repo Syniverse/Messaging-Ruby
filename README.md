@@ -11,6 +11,8 @@ The Ruby API hides some of the REST API's constraints, like
 lists being returned in logical pages of <i>n</i> records. With the
 Ruby SDK, the list method returns a wrapper that implements each().
 
+Please register for a free account at https://developer.syniverse.com to get your API keys.
+
 ## External dependencies
 Dependencies can be installed with gem.
 
